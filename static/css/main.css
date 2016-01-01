@@ -58,6 +58,12 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
+.sign-choose {
+    position: absolute;
+    top: 100px;
+    left: 25px;
+}
+
 .two-col {
     border-bottom: 1px dotted #ccc;
     clear: both;
